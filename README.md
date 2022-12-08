@@ -1,2 +1,2 @@
-# AID-game
-Alone Inside THE Darkness is a 2D Horror game
+# Alone Inside THE Darkness
+Alone inside the darkness is a 2D game in the horror branch. The story is about a student in a school in Germany. The school was empty when he left class to go to the bathroom and came back. His classmates, teachers and friends have mysteriously disappeared. In search of a possible explanation for this, his school changes in a weird and white way. He encounters various obstacles and problems which he tries to solve with hints. Join this adventure...
