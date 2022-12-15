@@ -1,59 +1,33 @@
-# Erklärung von Markdown in der Chapterstory
-**[] = Ergänzung oder Notiz zur Figur**
+# Chapter select
+- User select character
+- Explanation of the Game overview
 
-**() = Die Umgebung ändert sich**
+# Chapter 0 [the beginning]
 
-**++ = Wörtlicherede oder Aussage**
+In German class, the character [you] asks if he can go to the toilet: "Mr Mayer, can I please please go to the toilet, I have to go very urgently". Mr Mayer [teacher] replies: "Of course you can go to the toilet, but hurry up and don't slouch in the aisle!". Character [you] get up and walk towards the door. Mr Mayer [teacher] says, "Hurry up if I'm going to let you go", character [you] opens the door and leaves the class.
 
-**-- = Gedanken deiner Figur**
+*(hallway)*
 
-**:: = Genauere Erklärung oder Ergänzung**
+Character [you] notice: 'it's pretty cold in the hallway' and you head towards the toilet.
 
-**|| = Szenenbeschreibung**
+*(Toilet)*
 
-**// = Kamerafahrt**
+One of the faucets is running and the water basin is overflowing, but nobody is there. So character [you] decides to close the tap to stop the overflow. Character [you] turn your back to the water tap and run to the toilet. One of the doors opens, but no one comes out of the toilet. Character [you] looks to see if anyone is in the toilet, but there is no one in it. Character [you] wonders: 'That's a little weird', but Character [you] turns around and goes to a toilet. Then you wash your hands and leave the toilet.
 
-**<> = Texteinbeldung**
+*(hallway)*
 
-## Chapter [-] start
-*(Schuleingang)*
+Your character [you] remembers to hurry up: "I have to get back to class quickly". You walk to the door and enter the classroom.
 
-//Kamera ist über den Schuleingang//
+*(classroom)*
 
-||Mehrere Schüler und Schülerinnen laufen in die Schule. Kurz darauf klingelt es und das bild verdunkelt sich langsam.||
+Character [you] are surprised because nobody from your class is there anymore and neither is your teacher. Character [you] thinks, 'I guess I went to the wrong classroom. ... ...'. However, character [you] see your things and the things of your classmates lying on the tables. Character [you] are puzzled: 'Where has everyone gone? Have you forgotten me?' Character [you] think and run back into the hallway
 
-## Chapter [-] Der Beginn und Figur auswahl
+*(hallway)*
 
-*(Klassenzimmer)*
+You walk through the hallways and floors and look through different classrooms, but you don't find anyone. Character [you] wonders: 'Where has everyone gone?'. When you get an unwhole feeling: 'I'll get my things and get the hell out of here'. 
 
-||Alle Schüler befinden sich auf ihren Plätzen||
+*(classroom)*
 
-<Wähle deine Figur>
+Character [you] walk to your classroom and go to your seat. Character [you] thinks, 'I'll just text the others'. When character [you] tries to get your phone out of your backpack and write to your classmates, a piece of paper falls out of your backpack with the inscription **You are not alone**. You pull out your phone, but it doesn't show you an internet connection.
 
-<Du kannst deine Figur im Lauf des Spiels nicht mehr Ändern>
-
-::Bei allen Figuren werden Eigenschaften angezeigt, welche Stärken und Schwächen sie haben. Nachdem die Figur ausgewählt wurde, beginnt das Spiel.::
-
-Im Deutschunterricht fragt die Figur [Du], ob er auf die Toilette gehen kann. *+Herr Mayer, kann ich bitte bitte auf die Toilette gehen, ich muss ganz dringend.+*  Herr Mayer [Lehrer] antwortet: *+Natürlich kannst du auf die Toilette gehen, aber beeile dich und bleib nicht im Gang!+* Figur [Du] stehst auf und gehen zur Tür. Herr Mayer [Lehrer] sagt: *+Beeilen dich, wenn ich Sie gehen lasse.+* Figur [Du] öffnest die Tür und verlässt die Klasse.
-
-*(Flur)*
-
-Figur [Du] denkst *-es ist ziemlich kalt hier im Flur-* und begibst dich in richtung der Toiletten.
-
-*(Toiletten)*
-
-Eines der Wasserhähne läuft und das wasserbecken läuft über, aber es ist niemand da. Also beschließt Figur [Du] den Wasserhan zu schließen um damit den überfluss zu stoppen. Figur [Du] drehst dem Wasserhan dem rücken zu und läufst zu den toilleten. Eine der Tühren öffnent sich, aber ohne jemand der aus der Toilette kommt. Figur [Du] schaust nach ob jemand in der Toillete ist, aber es ist niemand darin. Figur [Du] wundert sich: 'Das ist etwas komisch', aber Figur [Du] drehst dich um und gehst auf eine toilette. Nachdem wäschst du dir die Hände und verlässt die Toilette.
-
-*(Flur)*
-
-Figur [Du] fällt wieder ein, dass du dich beeilen sollst: "Ich muss schnell wieder zum unterricht". Du läufst zu tür und betrittst das klassenzimmer.
-
-*(Klassenzimmer)*
-
-Figur [Du] bist verwundert, weil niemand mehr von deiner Klasse da ist und dein Lehrer auch nicht. Figur [Du] denkt: 'Ich bin wohl in das flalsche klassenzimmer gegangen. ... ... ...'. Figur [Du] siehst aber deine Sachen und die sachen deiner Mitschüler auf den Tischen liegen. Figur [Du] bist verwundert: 'Wo sind alle hin? Haben sie mich vergessen?' Figur [Du] denkst nach und läufst wieder in den Flur 
-
-*(Flur)*
-
-Du läufst durch die flure und stöcke und schaust durch verscheidene klassenzimmer, aber du findest niemanden. Figur [Du] denkt verwundert: 'Wo sind alle hin?'. Als du ein unwholes gefühl bekommst: 'Ich hole meine Sachen und verschweinde von hier'. Figur [Du] läufst zu deinem Klassenzimmer und begibst dich an deinem Platz. Figur [Du] denkt: 'Ich schreibe einfach den andern'. Als Figur [Du] versuchst das Handy aus dem Rucksack zu holen und deinen Klassenkamraden zu schreiben, fällt dir aus dem Rucksack ein Stück papier mit der Aufschirfft: **Du bist nicht alleine**. Dein zückst dein Handy, aber es zeigt dir keine Internetverbindung an.
-
-## Chapter 1 [Alle sind verschwunden]
+# Chapter 1 [all are gone]
